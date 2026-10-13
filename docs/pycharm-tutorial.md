@@ -24,9 +24,9 @@
 
 [**Python**](https://www.edureka.co/blog/python-tutorial/) 是一种非常通用的语言。它有成千上万的库和模块可以使用。
 
-它与所有其他语言相比， [**Python**](https://www.edureka.co/blog/python-tutorial/) 真的很有趣。它对初学者非常友好，语法也很容易理解——作为初学者，我认为在入门一门语言时，这一点非常重要。
+它与所有其他语言相比， [**Python**](https://www.edureka.co/blog/python-tutorial/) 真的很有趣。它对初学者非常友好，语法也很非常理解——作为初学者，我认为在入门一门语言时，这一点非常重要。
 
-最好的是，没有分号，是吧？
+最好的是，没有分号，是不是？
 
 自从 [**Python**](https://www.edureka.co/blog/python-tutorial/) 和它的大多数库都是开源的以来，它已经在创业公司和行业中获得了很大的吸引力。这无疑会给全球带来数百万快乐的学习者。
 
